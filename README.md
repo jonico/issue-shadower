@@ -1,6 +1,6 @@
 # Issue Shadower
 
-A webhook receiver to mirror GitHub.com issues to private GitHub Enterprise forks.
+A webhook receiver to mirror GitHub.com issues to private GitHub Enterprise "forks".
 
 ## How it works
 
